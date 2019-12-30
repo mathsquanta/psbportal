@@ -1,0 +1,24 @@
+    1  ..ls..
+    2  ../ls..
+    3  cd desktop
+    4  pwd
+    5  cd ..
+    6  cat
+    7  exit
+    8  pwd
+    9  ls
+   10  cd BootCampNov2019
+   11  cd ~
+   12  dir
+   13  exit
+   14  cd 
+   15  cd ..
+   16  cd ..
+   17  dir
+   18  cd BootCampNov2019
+   19  ls
+   20  cd Development
+   21  git clone https://github.com/mathsquanta/psbportal.git
+   22  cd psbportal
+   23  touch Readme.txt
+   24  history > mycommands.txt
