@@ -1,0 +1,35 @@
+    1  sudo apt-get update
+    2  sudo apt-get upgrade
+    3  ls
+    4  cd Documents
+    5  ls
+    6  cd
+    7  sudo apt-get upgrade
+    8  sudo apt-get update 
+    9  sudo apt-get upgrade
+   10  sudo apt-get update
+   11  sudo apt-get upgrade
+   12  git clone
+   13  sudo apt install git
+   14  sudo apt-get update
+   15  sudo apt-get upgrade
+   16  sudo install git
+   17  sudo install --help
+   18  sudo apt install git
+   19  sudo git --version
+   20  sudo git clone https://github.com/mathsquanta/psbportal.git
+   21  cd ~
+   22  dir
+   23  cd psbportal
+   24  cat > readme.txt
+   25  chmod
+   26  chmod --help
+   27  dir
+   28  touch Readme.md
+   29  cat > Readme.md
+   30  sudo chmod -R 777
+   31  pwd
+   32  sudo chmod -R 777 /home/mathsquanta/psbportal
+   33  touch readme.md
+   34  dir
+   35  history > commands.txt
